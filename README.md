@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to my Github
 
-<!--
-**RiyasaatAhmed/RiyasaatAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Riyasaat Ahmed Rahul**, a passionate frontend web developer (3+ years of experience) with a strong proficiency in TypeScript, React, and Next.js. <br /><br />
+--> I am deeply committed to crafting seamless, user-centric web applications that balance performance with aesthetic design.<br />
+--> With a keen eye for detail and a dedication to continuous learning, I consistently deliver high-quality code that enhances user experiences.<br />
+--> My experience allows me to translate design concepts into seamless user experiences while maintaining code quality and scalability.
+<br/><br/>
 
-Here are some ideas to get you started:
+<p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=RiyasaatAhmed" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RiyasaatAhmed?cardType=github&theme=dark&Border=000000)](https://git.io/awesome-stats-card)<br/>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RiyasaatAhmed&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)<br />
+
+
+
+
+
