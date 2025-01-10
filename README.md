@@ -1,6 +1,6 @@
 # Welcome to my Github
 
-Hi! I'm **Riyasaat Ahmed Rahul**, a passionate frontend web developer (3+ years of experience) with a strong proficiency in TypeScript, React, and Next.js. <br /><br />
+Hi! I'm **Riyasaat Ahmed Rahul**, a passionate frontend web developer (4+ years of experience) with a strong proficiency in TypeScript, React, and Next.js. <br /><br />
 --> I am deeply committed to crafting seamless, user-centric web applications that balance performance with aesthetic design.<br />
 --> With a keen eye for detail and a dedication to continuous learning, I consistently deliver high-quality code that enhances user experiences.<br />
 --> My experience allows me to translate design concepts into seamless user experiences while maintaining code quality and scalability.
