@@ -10,7 +10,7 @@ What that has looked like in practice:
 - Took a clinical platform to **WCAG 2.2 AA**, closing 180+ accessibility violations
 - Dropped p75 **INP from 620ms to 140ms** by virtualizing a 10,000-row scheduling grid
 
-📍 Dhaka, Bangladesh, working remote with US and Europe teams &nbsp;·&nbsp; 🌐 [riyasaat.dev](https://riyasaat.dev) &nbsp;·&nbsp; ✉️ riyasaatahmed24@gmail.com
+📍 Dhaka, Bangladesh, working remote with US and Europe teams &nbsp;·&nbsp; 🌐 [riyasaat.dev](https://riyasaat.dev) &nbsp;·&nbsp; 📄 [Resume](https://drive.google.com/file/d/1a_zOqAvnxFz2daXIq7f5kQZn6ByWwHtk/view) &nbsp;·&nbsp; ✉️ riyasaatahmed24@gmail.com
 
 ---
 
@@ -63,6 +63,7 @@ I write about React architecture, rendering performance, and accessibility at
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-riyasaat.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://riyasaat.dev)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1a_zOqAvnxFz2daXIq7f5kQZn6ByWwHtk/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riyasaatahmedrahul)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14693582)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyasaatahmed24@gmail.com)
