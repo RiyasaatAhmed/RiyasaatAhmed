@@ -10,7 +10,9 @@ What that has looked like in practice:
 - Took a clinical platform to **WCAG 2.2 AA**, closing 180+ accessibility violations
 - Dropped p75 **INP from 620ms to 140ms** by virtualizing a 10,000-row scheduling grid
 
-📍 Dhaka, Bangladesh, working remote with US and Europe teams &nbsp;·&nbsp; 🌐 [riyasaat.dev](https://riyasaat.dev) &nbsp;·&nbsp; 📄 [Resume](https://drive.google.com/file/d/1a_zOqAvnxFz2daXIq7f5kQZn6ByWwHtk/view) &nbsp;·&nbsp; ✉️ riyasaatahmed24@gmail.com
+📍 Dhaka, Bangladesh, working remote with US and Europe teams
+
+🌐 [riyasaat.dev](https://riyasaat.dev) &nbsp;·&nbsp; 📄 [Resume](https://drive.google.com/file/d/1a_zOqAvnxFz2daXIq7f5kQZn6ByWwHtk/view) &nbsp;·&nbsp; ✉️ riyasaatahmed24@gmail.com
 
 ---
 
@@ -19,7 +21,8 @@ What that has looked like in practice:
 | Project | What it is |
 | --- | --- |
 | **[riyasaat.dev](https://riyasaat.dev)** | My portfolio and technical blog. Next.js App Router, MDX content pipeline, and an accessible component library where every component ships with its design decisions and trade-offs written out. |
-| **[complex-form](https://github.com/RiyasaatAhmed/complex-form)** | A type-safe, multi-step form framework for React. |
+| **[martlet.ai](https://github.com/MartletAI/martlet.ai)** | The Martlet.ai product site. Next.js and TypeScript front for an AI platform that does real-time HCC coding and risk adjustment, pulling structured codes out of unstructured clinical notes. |
+| **[paradiso](https://github.com/RiyasaatAhmed/paradiso)** | A small private cinema. Plays your films on your laptop or TV over your own wifi, no cloud in the middle. TypeScript, Dockerized. |
 | **[Text2Chart](https://github.com/RiyasaatAhmed/Text2Chart-A-Multi-Staged-Chart-Generator-from-Natural-Language-Text)** | Research project that generates a suitable chart from analytical text. Accepted at PAKDD 2021. |
 
 ---
