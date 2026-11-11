@@ -1,16 +1,18 @@
 # Riyasaat Ahmed Rahul
 
-**Senior Frontend Engineer** building AI-native products in React, Next.js, and TypeScript.
-Founding engineer at [Martlet.ai](https://martlet.ai), turning LLM APIs and ML backends into interfaces people trust.
+**Full-Stack Engineer** building AI-native products in React, Next.js, TypeScript, and Python.
+Founding full-stack engineer on [Martlet.ai](https://martlet.ai) at [John Snow Labs](https://www.johnsnowlabs.com), turning LLM APIs and ML backends into products people trust.
 
 What that has looked like in practice:
 
-- Cut time to first response from **12s to 380ms** and user abandonment **48%** by streaming AI suggestions over SSE
+- Lifted AI suggestion adoption from **22% to 71%** with a generative UI that shows the evidence behind every score
+- Cut time to first token from **12s to 380ms** and abandonment **48%** by streaming suggestions over SSE
+- Unblocked a **$1.2M** payer contract by taking a clinical platform to **WCAG 2.2 AA** (180+ violations closed)
+- Built HIPAA de-identification for text, PDF, FHIR, CDA and **DICOM**, scaled to 300 MB studies and 500-page PDFs
 - Built a **62-component design system** adopted by 4 squads, cutting new-screen delivery time **41%**
-- Took a clinical platform to **WCAG 2.2 AA**, closing 180+ accessibility violations
 - Dropped p75 **INP from 620ms to 140ms** by virtualizing a 10,000-row scheduling grid
 
-📍 Dhaka, Bangladesh, working remote with US and Europe teams
+📍 Dhaka, Bangladesh, working remote with US and Europe teams, and open to relocating
 
 🌐 [riyasaat.dev](https://riyasaat.dev) &nbsp;·&nbsp; 📄 [Resume](https://drive.google.com/file/d/1a_zOqAvnxFz2daXIq7f5kQZn6ByWwHtk/view) &nbsp;·&nbsp; ✉️ riyasaatahmed24@gmail.com
 
@@ -21,7 +23,7 @@ What that has looked like in practice:
 | Project | What it is |
 | --- | --- |
 | **[riyasaat.dev](https://riyasaat.dev)** | My portfolio and technical blog. Next.js App Router, MDX content pipeline, and an accessible component library where every component ships with its design decisions and trade-offs written out. |
-| **[martlet.ai](https://github.com/MartletAI/martlet.ai)** | The Martlet.ai product site. Next.js and TypeScript front for an AI platform that does real-time HCC coding and risk adjustment, pulling structured codes out of unstructured clinical notes. |
+| **[martlet.ai](https://github.com/MartletAI/martlet.ai)** | The Martlet.ai product site, which I rebuilt from scratch (93% of commits). Next.js and TypeScript front for John Snow Labs' AI platform for HCC coding, risk adjustment and RADV audits. |
 | **[paradiso](https://github.com/RiyasaatAhmed/paradiso)** | A small private cinema. Plays your films on your laptop or TV over your own wifi, no cloud in the middle. TypeScript, Dockerized. |
 | **[Text2Chart](https://github.com/RiyasaatAhmed/Text2Chart-A-Multi-Staged-Chart-Generator-from-Natural-Language-Text)** | Research project that generates a suitable chart from analytical text. Accepted at PAKDD 2021. |
 
@@ -51,6 +53,7 @@ What that has looked like in practice:
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
