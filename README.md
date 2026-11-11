@@ -9,7 +9,7 @@ What that has looked like in practice:
 - Lifted AI suggestion adoption from **22% to 71%** with a generative UI that shows the evidence behind every score
 - Cut failed job submissions **84%** with an offline-first PWA for field technicians
 - Built a **62-component design system** adopted by 4 squads, cutting new-screen delivery time **41%**
-- Cut time to first token from **12s to 380ms** and abandonment **48%** by streaming suggestions over SSE
+- Cut the wait for the first AI suggestion from **12s to 380ms** and abandonment **48%** by streaming suggestions over SSE
 - Built HIPAA de-identification for text, PDF, FHIR, CDA and **DICOM**, scaled to 5 GB studies and 500-page PDFs
 
 📍 Dhaka, Bangladesh, working remote with US and Europe teams, and open to relocating
@@ -25,7 +25,7 @@ What that has looked like in practice:
 | **[riyasaat.dev](https://riyasaat.dev)** | My portfolio and technical blog. Next.js App Router, MDX content pipeline, and an accessible component library where every component ships with its design decisions and trade-offs written out. |
 | **[martlet.ai](https://github.com/MartletAI/martlet.ai)** | The Martlet.ai product site, which I rebuilt from scratch (93% of commits). Next.js and TypeScript front for John Snow Labs' AI platform for HCC coding, risk adjustment and RADV audits. |
 | **[paradiso](https://github.com/RiyasaatAhmed/paradiso)** | A small private cinema. Plays your films on your laptop or TV over your own wifi, no cloud in the middle. TypeScript, Dockerized. |
-| **[Text2Chart](https://github.com/RiyasaatAhmed/Text2Chart-A-Multi-Staged-Chart-Generator-from-Natural-Language-Text)** | Research project that generates a suitable chart from analytical text. Accepted at PAKDD 2021. |
+| **[Text2Chart](https://github.com/RiyasaatAhmed/Text2Chart-A-Multi-Staged-Chart-Generator-from-Natural-Language-Text)** | Research paper (co-author) on generating a suitable chart from analytical text. Published at PAKDD 2022 (Springer LNAI 13281). |
 
 ---
 
