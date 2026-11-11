@@ -5,7 +5,7 @@ Founding full-stack engineer on [Martlet.ai](https://martlet.ai) at [John Snow L
 
 What that has looked like in practice:
 
-- Unblocked a **$1.2M** payer contract by taking a clinical platform to **WCAG 2.2 AA** (180+ violations closed)
+- Unblocked a **$1.2M** health-plan contract by taking a clinical platform to **WCAG 2.2 AA** (180+ violations closed)
 - Lifted AI suggestion adoption from **22% to 71%** with a generative UI that shows the evidence behind every score
 - Cut failed job submissions **84%** with an offline-first PWA for field technicians
 - Built a **62-component design system** adopted by 4 squads, cutting new-screen delivery time **41%**
