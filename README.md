@@ -8,7 +8,7 @@ What that has looked like in practice:
 - Lifted AI suggestion adoption from **22% to 71%** with a generative UI that shows the evidence behind every score
 - Cut time to first token from **12s to 380ms** and abandonment **48%** by streaming suggestions over SSE
 - Unblocked a **$1.2M** payer contract by taking a clinical platform to **WCAG 2.2 AA** (180+ violations closed)
-- Built HIPAA de-identification for text, PDF, FHIR, CDA and **DICOM**, scaled to 300 MB studies and 500-page PDFs
+- Built HIPAA de-identification for text, PDF, FHIR, CDA and **DICOM**, scaled to 5 GB studies and 500-page PDFs
 - Built a **62-component design system** adopted by 4 squads, cutting new-screen delivery time **41%**
 - Dropped p75 **INP from 620ms to 140ms** by virtualizing a 10,000-row scheduling grid
 
