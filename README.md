@@ -17,7 +17,7 @@ What that has looked like in practice:
 📍 Dhaka, Bangladesh (UTC+6) · Remote on US or EU hours since 2021 · Open to relocation<br>
 💼 Open to senior full-stack and AI product engineering roles
 
-🌐 [riyasaat.dev](https://riyasaat.dev) &nbsp;·&nbsp; 📄 [Resume](https://drive.google.com/file/d/1xLtp-qaEtB9VuUrBs2ESm3LdAmIU3ggU/view?usp=sharing) &nbsp;·&nbsp; ✉️ riyasaatahmed24@gmail.com
+🌐 [riyasaat.dev](https://riyasaat.dev) &nbsp;·&nbsp; 📄 [Resume](https://drive.google.com/file/d/1MUxrbmi23SpUOFtD5nGnR1qOdHf0KH-M/view?usp=sharing) &nbsp;·&nbsp; ✉️ riyasaatahmed24@gmail.com
 
 ---
 
@@ -84,7 +84,7 @@ I write about React architecture, rendering performance, and accessibility at
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-riyasaat.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://riyasaat.dev)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1xLtp-qaEtB9VuUrBs2ESm3LdAmIU3ggU/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1MUxrbmi23SpUOFtD5nGnR1qOdHf0KH-M/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riyasaatahmedrahul)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14693582)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyasaatahmed24@gmail.com)
